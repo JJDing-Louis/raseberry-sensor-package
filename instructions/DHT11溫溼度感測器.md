@@ -5,7 +5,7 @@
 
 ---
 ## 2.接線
-![DHT11溫溼度感測器(接線)](/instructions/pic/DHT11溫濕度傳感器 /pic/DHT11溫溼度感測器(接線).png)
+![DHT11溫溼度感測器(接線)](/instructions/pic/DHT11溫濕度傳感器_pic/DHT11溫溼度感測器(接線).png)
 ### 說明:
 5V 接 5V
 GND 接 GND
