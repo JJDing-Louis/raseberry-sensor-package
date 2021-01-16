@@ -1,7 +1,7 @@
 # DHT11溫溼度感測器
 ---
 ## 1.裝置介紹
-![DHT11溫溼度感測器](/instructions/pic/DHT11溫濕度傳感器/pic/DHT11溫溼度感測器.jpg)
+![DHT11溫溼度感測器](/instructions/pic/DHT11溫濕度傳感器_pic/DHT11溫溼度感測器.jpg)
 
 ---
 ## 2.接線
